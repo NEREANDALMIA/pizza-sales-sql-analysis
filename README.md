@@ -116,7 +116,7 @@ This indicates strong mid-day and evening demand patterns.
 
 - Cumulative revenue trend was analyzed using window functions.
 - Category-wise top 3 revenue-generating pizzas were identified using RANK() with PARTITION BY.
-- 
+  
 ## Business Recommendations
 
 - Allocate additional staff during peak lunch and dinner hours.
