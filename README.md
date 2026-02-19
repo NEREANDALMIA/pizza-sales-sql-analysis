@@ -20,7 +20,7 @@ The database consists of four related tables:
 Orders → Order_Details → Pizzas → Pizza_Types  
 
 The dataset contains order timestamps, pizza categories, pricing information, and quantity sold.
-
+![Table_Structure](screenshots/table_structure.png)
 ## Tools & Technologies Used
 
 - MySQL Workbench  
