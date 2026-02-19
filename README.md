@@ -96,7 +96,7 @@ The dataset contains order timestamps, pizza categories, pricing information, an
 
 This indicates strong mid-day and evening demand patterns.
 
-## 💰 Revenue Insights
+## Revenue Insights
 
 ### 🔹 Top 3 Pizzas by Revenue
 
@@ -112,19 +112,19 @@ This indicates strong mid-day and evening demand patterns.
 - Classic Deluxe Pizza: ~4.67%
 - Spicy Italian Pizza: ~4.26%
 
-## 📈 Advanced Analysis
+## Advanced Analysis
 
 - Cumulative revenue trend was analyzed using window functions.
 - Category-wise top 3 revenue-generating pizzas were identified using RANK() with PARTITION BY.
 - 
-## 💡 Business Recommendations
+## Business Recommendations
 
 - Allocate additional staff during peak lunch and dinner hours.
 - Focus promotional campaigns on high-performing pizzas.
 - Optimize inventory planning based on category demand trends.
 - Develop marketing strategies to boost underperforming categories.
 
-## 📁 Project Files
+## Project Files
 
 - analysis_queries.sql → Contains all SQL queries used for analysis.
 - screenshots/ → Contains selected result outputs
